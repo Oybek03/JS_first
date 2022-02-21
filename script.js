@@ -1,0 +1,11 @@
+let uboyi = 1.7;
+let oboyi = 1.6;
+let uvazn = 75;
+let ovazn = 48;
+let umid = uvazn/uboyi**2;
+let oybek = ovazn/oboyi**2;
+console.log(umid);
+console.log(oybek);
+let hammasi = true;
+console.log(umid>oybek);
+confirm("yoshingiz 16 dan oshganmi?");
